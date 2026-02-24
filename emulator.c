@@ -210,7 +210,6 @@ defer:
                 if ((opcode & 0xf0ff) == 0xf00a && (current_key_reset == 0xff || current_key_reset != current_key_press))
                     current_key_reset = key_r;
             }
-            printf("debug: press = %x, reset == %x\n", current_key_press, current_key_reset);
         }
 
         if(timer_reduction >= 16) {
