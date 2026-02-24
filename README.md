@@ -48,7 +48,7 @@ One exception is the `0xFX0A` instruction, where the test suite expects to halt 
 
 ### References
 
-https://chip-8.github.io/extensions
-https://github.com/mattmikolay/chip-8/wiki/CHIP-8-Technical-Reference
-http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
-https://github.com/Timendus/chip8-test-suite
+- https://chip-8.github.io/extensions
+- https://github.com/mattmikolay/chip-8/wiki/CHIP-8-Technical-Reference
+- http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
+- https://github.com/Timendus/chip8-test-suite
